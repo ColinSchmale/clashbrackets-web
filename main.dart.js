@@ -49915,7 +49915,7 @@ ad(){return A.bpO()}}
 A.a98.prototype={
 F(a){return new A.Sq(new A.aR7(this),null)}}
 A.aQY.prototype={
-$3(a,b,c){return A.arb("https://api-assets.clashbrackets.app/badges/70/mgJA1X_j1G6xd8CG5kvLSIjzYPkAHchpcpRITQ1LxGE.png",null,null)},
+$3(a,b,c){return A.arb("https://clashapi-assets.colinschmale.dev/badges/70/mgJA1X_j1G6xd8CG5kvLSIjzYPkAHchpcpRITQ1LxGE.png",null,null)},
 $S:733}
 A.aQV.prototype={
 $2(a,b){return A.H5(null,B.P8,b.y,null,null,t.z)},
